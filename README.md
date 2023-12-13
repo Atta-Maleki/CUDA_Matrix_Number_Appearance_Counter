@@ -13,8 +13,8 @@ ii. Calculate and report the kernel execution time and the data transfer time be
 
 Attention!!!
 -------------------------------------------------------------------------------------------------------
-this code is generated with respect to commands and functions mentioned and introduced in the Lecture PDF files.
-certainly there is much more efficient and optimized ways to solve the problem but this code is limited with functions mentioned in PDF files
+This code is generated with respect to commands and functions mentioned and introduced in the Lecture PDF files.
+Certainly there is much more efficient and optimized ways to solve the problem but this code is limited with functions mentioned in PDF files
 
 
 
